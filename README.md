@@ -1,2 +1,10 @@
 # ELECTRONICS_PROJECT_CLG_
- RFID BASED AUTOMATIC BUS FARE SYSTEM USING 89C51 MICROCONTROLLER
+RFID BASED AUTOMATIC BUS FARE SYSTEM USING 89C51 MICROCONTROLLER
+
+
+INTRODUCTION:
+    
+Radio frequency identification (RFID) refers to the use of radio frequency wave to identify and track the tag implanted into an object or a living thing. It is a wireless mean of communication that use electromagnetic and electrostatic coupling in radio frequency portion of the spectrum to communicate between reader and tag through a variety of modulation and encoding scheme. Modulation refers to the variation in the amplitude, frequency or phase of a high frequency carrier signal to convey information. Encoding is a process of converting information from one format to another. RFID system usually consists of RFID reader and tag. It is very useful because it can uniquely identify a person or a product based on the tag incorporated. It can be done quickly and this usually takes less than a second. A prototype of the system has been designed and fabricated. The RFID reader used in the system is passive type which has maximum range of detection of around 5cm above the reader. It operates at frequency of 125 kHz and 12V power supply. The system has ability to uniquely identify and take ticket for persons. The users only need to place their RFID tag on the reader to take ticket. 
+
+Automated fare collection (AFC) systems are used in many urban public transport systems around the world.  As  the  designation  suggests,  these  are typically  designed  with  the  specific  purpose  of automating  the  ticketing  system,  easing  public transport use for passengers and adding efficiency to revenue  collection  operations.  In addition, AFC systems are used to enable integrated ticketing across different public trans-port modes and operators in urban areas. This chapter gives you an introduction about the Internet of Things and its real time applications. The main idea behind this project is to collect the fare automatically using the Internet of Things in a cost efficient manner. Internet of Things allows objects to sensed and controlled remotely across existing network infrastructure.
+
